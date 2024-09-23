@@ -1,0 +1,629 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1727231,
+      "sizes": {
+        "javascript": 1727231
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "6.js"
+      ],
+      "auxiliaryFiles": [
+        "6.js.map"
+      ],
+      "hash": "a5253c14b988ace9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 3545151,
+      "sizes": {
+        "javascript": 3545151
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "130.js"
+      ],
+      "auxiliaryFiles": [
+        "130.js.map"
+      ],
+      "hash": "3ca97605a6dadb0d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 220594,
+      "sizes": {
+        "javascript": 220510,
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "140.js"
+      ],
+      "auxiliaryFiles": [
+        "140.js.map"
+      ],
+      "hash": "69d2366f0060a9a9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 480,
+      "sizes": {
+        "javascript": 480
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "152.js"
+      ],
+      "auxiliaryFiles": [
+        "152.js.map"
+      ],
+      "hash": "1ef9aace3f8cfc20",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 2820614,
+      "sizes": {
+        "consume-shared": 210,
+        "javascript": 2799071,
+        "share-init": 294,
+        "runtime": 21039
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "403cebab78d9a595",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 97772,
+      "sizes": {
+        "javascript": 97772
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app"
+      ],
+      "files": [
+        "226.js"
+      ],
+      "auxiliaryFiles": [
+        "226.js.map"
+      ],
+      "hash": "6b9f05f0145b06bb",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 25337,
+      "sizes": {
+        "javascript": 25337
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "255.js"
+      ],
+      "auxiliaryFiles": [
+        "255.js.map"
+      ],
+      "hash": "51c4c4e0ec838abd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 113,
+      "sizes": {
+        "javascript": 113
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "271.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9e30180a68b17042",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 480,
+      "sizes": {
+        "javascript": 480
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "303.js"
+      ],
+      "auxiliaryFiles": [
+        "303.js.map"
+      ],
+      "hash": "7b9a4d465aacd6c6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 165,
+      "sizes": {
+        "javascript": 165
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5f6f621c515db22c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "b8e8c82e57002e2a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 40067,
+      "sizes": {
+        "javascript": 40067
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "443.js"
+      ],
+      "auxiliaryFiles": [
+        "443.js.map"
+      ],
+      "hash": "aca0767a60fdfbd3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 147,
+      "sizes": {
+        "javascript": 147
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "460.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "bb31eef97781e553",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 20916,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 294,
+        "runtime": 20580
+      },
+      "names": [
+        "@openmrs/esm-generic-patient-widgets-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app"
+      ],
+      "files": [
+        "openmrs-esm-generic-patient-widgets-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-generic-patient-widgets-app.js.map"
+      ],
+      "hash": "5ae1d63c9589c689",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 150,
+      "sizes": {
+        "javascript": 150
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5c752ee2bf35fdb0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 251616,
+      "sizes": {
+        "javascript": 251616
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "591.js"
+      ],
+      "auxiliaryFiles": [
+        "591.js.map"
+      ],
+      "hash": "b7a98fd36bffb3e2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 113,
+      "sizes": {
+        "javascript": 113
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "644.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c566df5bca92ddab",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 25530,
+      "sizes": {
+        "javascript": 25530
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "729.js"
+      ],
+      "auxiliaryFiles": [
+        "729.js.map"
+      ],
+      "hash": "b7eab12cdfd78436",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 169,
+      "sizes": {
+        "javascript": 169
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "35e550db279ddb4a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "48420c0b9cf6b366",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 150,
+      "sizes": {
+        "javascript": 150
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "788.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f87189f81efada5e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 159,
+      "sizes": {
+        "javascript": 159
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "807.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ac172a17a7108043",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 138,
+      "sizes": {
+        "javascript": 138
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [
+        "833.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "fd394b8cd028df7e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 126,
+      "sizes": {
+        "consume-shared": 126
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "b56efd60acf1846c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "b90af0cac43bb7ce",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 948731,
+      "sizes": {
+        "javascript": 948731
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-generic-patient-widgets-app"
+      ],
+      "files": [
+        "962.js"
+      ],
+      "auxiliaryFiles": [
+        "962.js.map"
+      ],
+      "hash": "4a72422adcbf006e",
+      "childrenByOrder": {}
+    }
+  ]
+}

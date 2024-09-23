@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_home_app=globalThis.webpackChunk_openmrs_esm_home_app||[]).push([[132],{4132:e=>{e.exports=JSON.parse('{"home":"الصفحة الرئيسية","homepageIllustration":"Homepage illustration"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_generic_patient_widgets_app=globalThis.webpackChunk_openmrs_esm_generic_patient_widgets_app||[]).push([[644],{1644:e=>{e.exports=JSON.parse('{"chartView":"图表视图","dateAndTime":"日期&时间","displaying":"展示中","encounterType":"问诊类型","tableView":"表格视图"}')}}]);

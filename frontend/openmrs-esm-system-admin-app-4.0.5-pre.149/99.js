@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_system_admin_app=globalThis.webpackChunk_openmrs_esm_system_admin_app||[]).push([[99],{3099:s=>{s.exports=JSON.parse('{"config":"Configuraciones","legacyAdmin":"Administración Heredada","systemAdmin":"Administración del Sistema"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_form_engine_app=globalThis.webpackChunk_openmrs_esm_form_engine_app||[]).push([[303,152],{2303:(e,a,n)=>{n.r(a),n.d(a,{default:()=>s,immutable:()=>r});var i=n(3255),l=n(3325);const r=e=>(a,n,i)=>(i.revalidateOnFocus=!1,i.revalidateIfStale=!1,i.revalidateOnReconnect=!1,e(a,n,i)),s=(0,l.withMiddleware)(i.ZP,r)}}]);
